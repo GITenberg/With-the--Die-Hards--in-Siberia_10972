@@ -1,5 +1,8 @@
 _repo: With-the--Die-Hards--in-Siberia_10972
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ward, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3778
     wikipedia: http://en.wikipedia.org/wiki/John_Ward_%28British_politician%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10972#With-the--Die-Hards--in-Siberia
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
